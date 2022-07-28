@@ -1,11 +1,36 @@
-.flex-container {
-    /* display: flex; */
-  }
-  
-  /* this selector selects all divs inside of .flex-container */
-  .flex-container div {
-    background: peachpuff;
-    border: 4px solid brown;
-    height: 100px;
-    /* flex: 1; */
-  }
+body {
+         padding: 0;
+         margin: 0;
+ }
+
+.navbar {
+        position: relative;
+        background-color: darkseagreen;
+        padding: 50px;
+}
+
+.logo {
+       display: flex;
+}
+
+#navlist {
+       list-style: none;
+       display: flex;
+       padding: 0;
+       margin: 0;
+       background: white;
+}
+
+.footer {
+    width: 100%;
+    background: #111;
+    margin-top: 1.5rem;
+}
+
+#footerlist {
+       list-style: none;
+       display: flex;
+       padding:0px;
+       margin: 0px;
+       background: black;
+}
