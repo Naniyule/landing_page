@@ -22,7 +22,7 @@ The project is about me, hobbies and why am taking a course with Moringa School.
 ### Executing program
 
 * Run it locally from the index.html file.
-* You can also access it from the gitlab page
+* You can also access it from the gitlab page -- https://naniyule.github.io/landing_page/
 
 ## Authors
 Sydney Waithaka Wanjohi
