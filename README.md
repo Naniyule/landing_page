@@ -1,60 +1,40 @@
-# landing_page
+# Landing_page
 
-# Project Title
+This is a portfolio landing page.
 
-Simple overview of use/purpose.
+# Description
 
-## Description
-
-An in-depth paragraph about your project and overview of use.
+The project is about me, hobbies and why am taking a course with Moringa School.
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Any latest OS such as Windows 8 to 11, Any linux/Unix or Mac OS.
+* Git.
+* IDE environment like visual code.
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Clone project from this repository.
+* Make any adjustments as seen fit on the html or css files.
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+* Run it locally from the index.html file.
+* You can also access it from the gitlab page
 
 ## Authors
-
-Contributors names and contact info
-
-ex. Sydney Waithaka Wanjohi
+Sydney Waithaka Wanjohi
+Email - sydneywaithaka@gmail.com
 
 ## Version History
 
 * 0.1
     * Initial Release
 
-## License
+## Copyright and license Information
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [GPG] License. You can freely use and modify this project.
 
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+Copyright © 2022 Sydney Wanjohi
