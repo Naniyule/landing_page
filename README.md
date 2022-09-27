@@ -35,6 +35,6 @@ Email - sydneywaithaka@gmail.com
 
 ## Copyright and license Information
 
-This project is licensed under the [GPG] License. You can freely use and modify this project.
+This project is licensed under the [MIT] License. You can freely use and modify this project.
 
-Copyright © 2022 Sydney Wanjohi
+Copyright © 2022 Sydney Wanjohi.
